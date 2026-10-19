@@ -1,15 +1,9 @@
 # Haystack Dating — Guest Policies & Guidelines
 
-Welcome to Haystack Dating's official guest information repository.
+**Publication status: Website published.** The guest-facing privacy notice and code of conduct are available at https://haystack-dating.github.io/guest-policies/.
 
-**Publication status: In preparation.** Our updated guest-facing privacy notice and code of conduct are being checked against our booking, consent and event processes before publication.
+This records publication of the website, not legal certification. Operational checks and related form updates remain on Haystack's internal follow-up list, including health-data consent on trip forms, retention procedures, supplier checks, and alignment of the main website and booking journeys.
 
-This repository will provide one easy-to-find home for:
+Privacy questions and rights requests: privacy@haystack-dating.com.
 
-- **Privacy & Data Protection Notice** — how Haystack Dating Ltd handles booking details, questionnaires, dating preferences, event matching and privacy rights.
-- **Guest Code of Conduct** — expectations for consent, respect, safety, privacy and reporting concerns.
-- **Privacy questions and requests:** privacy@haystack-dating.com.
-
-**Please do not link guests to this repository as the final policy hub yet.** The final documents and public GitHub Pages website are not published.
-
-Haystack Dating Ltd · [Main website](https://www.haystack-dating.com/)
+[Main website](https://www.haystack-dating.com/)
